@@ -9,7 +9,7 @@ from .base import env
 # https://docs.djangoproject.com/en/dev/ref/settings/#secret-key
 SECRET_KEY = "eL11HSttByEoHvSJazxndPml7bGrlQ63VDJgmv2N3eqsA5eRJmnX1AzEyhLCr4Tl"
 # https://docs.djangoproject.com/en/dev/ref/settings/#allowed-hosts
-ALLOWED_HOSTS = ["example.com"]
+ALLOWED_HOSTS = ["apimacbot.xyz", "www.apimacbot.xyz"]
 
 # DATABASES
 # ------------------------------------------------------------------------------
